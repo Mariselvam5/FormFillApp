@@ -30,6 +30,11 @@
     <input type="text" placeholder="Brother Name" name="brother" id="brother" required>
     <br>
 
+    <label for="spouse"><b>Spouse Name</b></label>
+    <input type="text" placeholder="Spouse Name" name="spouse" id="spouse" required>
+    <br>
+
+
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
   </div>
