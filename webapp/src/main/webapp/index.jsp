@@ -12,6 +12,11 @@
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
+   
+    <label for="father"><b>Father name</b></label>
+    <input type="text" placeholder="Father name " name="father" id="father" required>
+    <br>
+
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
