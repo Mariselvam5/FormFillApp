@@ -17,6 +17,10 @@
     <input type="text" placeholder="Father name " name="father" id="father" required>
     <br>
 
+    <label for="mothername"><b>Mother name</b></label>
+    <input type="text" placeholder="Mother name " name="mother" id="mother" required>
+    <br>
+
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
