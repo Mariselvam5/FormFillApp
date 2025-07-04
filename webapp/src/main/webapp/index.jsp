@@ -33,6 +33,10 @@
     <input type="text" placeholder="Spouse name " name="spouse" id="spouse" required>
     <br>
 
+    <label for="grandfathername"><b>Grandfather name</b></label>
+    <input type="text" placeholder="Grandfaher name " name="grandfather" id="grandfather" required>
+    <br>
+
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
